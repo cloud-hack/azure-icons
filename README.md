@@ -1,6 +1,6 @@
 # Azure architecture icons
 
-Just a snippet of code to rename and and restructre the icon files more suitable for an import to drawio
+Just a [snippet](snippet.ps1) of code to rename and and re-structure the icon files more suitable for an import to drawio
 
 Navigate over to ms and dowload the svg files
 https://docs.microsoft.com/en-us/azure/architecture/icons/#icon-updates
